@@ -1,14 +1,28 @@
-<?xml version="1.0"?>
-<cml xmlns="http://www.xml-cml.org/schema">
-  <molecule id="m1">
-    <atomArray>
-      <atom id="a1" elementType="H" x2="0.0" y2="0.0" />
-      <atom id="a2" elementType="O" x2="1.0" y2="0.0" />
-      <atom id="a3" elementType="H" x2="0.5" y2="0.87" />
-    </atomArray>
-    <bondArray>
-      <bond id="b1" atomRefs2="a1 a2" order="1" />
-      <bond id="b2" atomRefs2="a2 a3" order="1" />
-    </bondArray>
-  </molecule>
-</cml>
+import xml.etree.ElementTree as ET
+
+# Criação da estrutura XML para a molécula de água
+cml = ET.Element("cml", xmlns="http://www.xml-cml.org/schema")
+molecule = ET.SubElement(cml, "molecule", id="m1")
+
+# Definindo os átomos
+atom_array = ET.SubElement(molecule, "atomArray")
+atoms = [
+    {"id": "a1", "elementType": "H", "x2": "0.0", "y2": "0.0"},
+    {"id": "a2", "elementType": "O", "x2": "1.0", "y2": "0.0"},
+    {"id": "a3", "elementType": "H", "x2": "0.5", "y2": "0.87"}
+]
+for atom in atoms:
+    ET.SubElement(atom_array, "atom", **atom)
+
+# Definindo as ligações
+bond_array = ET.SubElement(molecule, "bondArray")
+bonds = [
+    {"id": "b1", "atomRefs2": "a1 a2", "order": "1"},
+    {"id": "b2", "atomRefs2": "a2 a3", "order": "1"}
+]
+for bond in bonds:
+    ET.SubElement(bond_array, "bond", **bond)
+
+# Salvando o arquivo XML
+tree = ET.ElementTree(cml)
+tree.write("molecule.xml", xml_declaration=True, encoding='utf-8', method="xml")
