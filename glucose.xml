@@ -1,180 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
-<?xml version="1.0"?>
-<!DOCTYPE list SYSTEM "cml.dtd" >
-<!--CML conversion of file glucose.pdb
-Produced by PDB2CML (c) Steve Zara 1999-->
-<list title="molecules" convention="PDB">
-    <list title="model">
-        <list title="compounds">
-            <string title="compound"></string>
-        </list>
-        <list title="remarks">
-            <string title="remark" id="[CH">([C@2H]([C@2H]([OH])[C@2H]([C@2H]([CH2][OH])[OH])[OH])[OH])=O
-</string>
-        </list>
-        <list title="sequence" id="1">
-            <list title="" id="1">
-                <string builtin="residueType"></string>
-                <atom title="atom" id="1">
-                    <string title="name">C</string>
-                    <coordinate3 builtin="xyz3">3.310 -0.776 1.120</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="2">
-                    <string title="name">C</string>
-                    <coordinate3 builtin="xyz3">2.352 -0.111 0.160</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="3">
-                    <string title="name">C</string>
-                    <coordinate3 builtin="xyz3">0.915 -0.407 0.587</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="4">
-                    <string title="name">O</string>
-                    <coordinate3 builtin="xyz3">0.696 0.099 1.906</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="5">
-                    <string title="name">C</string>
-                    <coordinate3 builtin="xyz3">-0.054 0.266 -0.384</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="6">
-                    <string title="name">C</string>
-                    <coordinate3 builtin="xyz3">-1.490 -0.030 0.043</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="7">
-                    <string title="name">C</string>
-                    <coordinate3 builtin="xyz3">-2.459 0.643 -0.928</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="8">
-                    <string title="name">O</string>
-                    <coordinate3 builtin="xyz3">-3.804 0.366 -0.528</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="9">
-                    <string title="name">O</string>
-                    <coordinate3 builtin="xyz3">-1.709 -1.443 0.032</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="10">
-                    <string title="name">O</string>
-                    <coordinate3 builtin="xyz3">0.165 1.679 -0.373</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="11">
-                    <string title="name">O</string>
-                    <coordinate3 builtin="xyz3">2.571 1.302 0.171</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="12">
-                    <string title="name">O</string>
-                    <coordinate3 builtin="xyz3">4.489 -0.665 0.960</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="13">
-                    <string title="name">H</string>
-                    <coordinate3 builtin="xyz3">2.929 -1.352 1.950</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="14">
-                    <string title="name">H</string>
-                    <coordinate3 builtin="xyz3">2.519 -0.496 -0.844</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="15">
-                    <string title="name">H</string>
-                    <coordinate3 builtin="xyz3">0.749 -1.482 0.579</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="16">
-                    <string title="name">H</string>
-                    <coordinate3 builtin="xyz3">3.482 1.499 -0.099</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="17">
-                    <string title="name">H</string>
-                    <coordinate3 builtin="xyz3">0.113 -0.119 -1.388</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="18">
-                    <string title="name">H</string>
-                    <coordinate3 builtin="xyz3">-0.214 -0.085 2.185</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="19">
-                    <string title="name">H</string>
-                    <coordinate3 builtin="xyz3">-1.657 0.355 1.047</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="20">
-                    <string title="name">H</string>
-                    <coordinate3 builtin="xyz3">-0.446 2.115 -0.987</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="21">
-                    <string title="name">H</string>
-                    <coordinate3 builtin="xyz3">-2.293 1.718 -0.920</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="22">
-                    <string title="name">H</string>
-                    <coordinate3 builtin="xyz3">-2.293 0.258 -1.932</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="23">
-                    <string title="name">H</string>
-                    <coordinate3 builtin="xyz3">-2.620 -1.640 0.302</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-                <atom title="atom" id="24">
-                    <string title="name">H</string>
-                    <coordinate3 builtin="xyz3">-4.426 0.790 -1.140</coordinate3>
-                    <string builtin="elementType"></string>
-                    <string builtin="formalCharge"></string>
-                </atom>
-            </list>
-            <feature title="ter" id=""/>
-        </list>
-        <list title="connections">
-            <list title="connect" id="1">2 12 13 0</list>
-            <list title="connect" id="2">1 3 11 14</list>
-            <list title="connect" id="3">2 4 5 15</list>
-            <list title="connect" id="4">3 18 0 0</list>
-            <list title="connect" id="5">3 6 10 17</list>
-            <list title="connect" id="6">5 7 9 19</list>
-            <list title="connect" id="7">6 8 21 22</list>
-            <list title="connect" id="8">7 24 0 0</list>
-            <list title="connect" id="9">6 23 0 0</list>
-            <list title="connect" id="10">5 20 0 0</list>
-            <list title="connect" id="11">2 16 0 0</list>
-            <list title="connect" id="12">1 0 0 0</list>
-        </list>
-    </list>
-</list>
+<Observation xmlns="http://hl7.org/fhir">
+  <id value="serum-glucose"/>
+  <meta>
+    <lastUpdated value="2005-07-05T15:29:58.597Z"/>
+    <profile value="http://hl7.org/fhir/us/core/StructureDefinition/us-core-observation-lab|7.0.0"/>
+  </meta>
+  <text>
+    <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><p><b>Generated Narrative: Observation</b><a name="serum-glucose"> </a><a name="hcserum-glucose"> </a></p><div style="display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%"><p style="margin-bottom: 0px">Resource Observation &quot;serum-glucose&quot; Updated &quot;2005-07-05 15:29:58+0000&quot; </p><p style="margin-bottom: 0px">Profile: <a href="StructureDefinition-us-core-observation-lab.html">US Core Laboratory Result Observation Profile (version 7.0.0)</a></p></div><p><b>status</b>: final</p><p><b>category</b>: Laboratory <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (<a href="http://terminology.hl7.org/5.5.0/CodeSystem-observation-category.html">Observation Category Codes</a>#laboratory)</span></p><p><b>code</b>: Glucose SerPl-mCnc <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (<a href="https://loinc.org/">LOINC</a>#2345-7)</span></p><p><b>subject</b>: <a href="Patient-example.html">Patient/example: Amy Shaw</a> &quot; SHAW&quot;</p><p><b>effective</b>: 2005-07-05</p><p><b>value</b>: 76 mg/dL<span style="background: LightGoldenRodYellow"> (Details: UCUM code mg/dL = 'mg/dL')</span></p><p><b>interpretation</b>: Normal <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (<a href="http://terminology.hl7.org/5.5.0/CodeSystem-v3-ObservationInterpretation.html">ObservationInterpretation</a>#N)</span></p><p><b>specimen</b>: <a href="Specimen-specimen-example-serum.html">Specimen/specimen-example-serum: Serum specimen</a></p><h3>ReferenceRanges</h3><table class="grid"><tr><td style="display: none">-</td><td><b>Low</b></td><td><b>High</b></td><td><b>Type</b></td></tr><tr><td style="display: none">*</td><td>40 mg/dL<span style="background: LightGoldenRodYellow"> (Details: UCUM code mg/dL = 'mg/dL')</span></td><td>109 mg/dL<span style="background: LightGoldenRodYellow"> (Details: UCUM code mg/dL = 'mg/dL')</span></td><td>Normal Range <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (<a href="http://terminology.hl7.org/5.5.0/CodeSystem-referencerange-meaning.html">Observation Reference Range Meaning Codes</a>#normal)</span></td></tr></table></div>
+  </text>
+  <status value="final"/>
+  <category>
+    <coding>
+      <system value="http://terminology.hl7.org/CodeSystem/observation-category"/>
+      <code value="laboratory"/>
+      <display value="Laboratory"/>
+    </coding>
+    <text value="Laboratory"/>
+  </category>
+  <code>
+    <coding>
+      <system value="http://loinc.org"/>
+      <code value="2345-7"/>
+      <display value="Glucose SerPl-mCnc"/>
+    </coding>
+    <text value="Glucose SerPl-mCnc"/>
+  </code>
+  <subject>
+    <reference value="Patient/example"/>
+    <display value="Amy Shaw"/>
+  </subject>
+  <effectiveDateTime value="2005-07-05"/>
+  <valueQuantity>
+    <value value="76"/>
+    <unit value="mg/dL"/>
+    <system value="http://unitsofmeasure.org"/>
+    <code value="mg/dL"/>
+  </valueQuantity>
+  <interpretation>
+    <coding>
+      <system value="http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation"/>
+      <code value="N"/>
+      <display value="Normal"/>
+    </coding>
+    <text value="Normal"/>
+  </interpretation>
+  <specimen>
+    <reference value="Specimen/specimen-example-serum"/>
+    <display value="Serum specimen"/>
+  </specimen>
+  <referenceRange>
+    <low>
+      <value value="40"/>
+      <unit value="mg/dL"/>
+      <system value="http://unitsofmeasure.org"/>
+      <code value="mg/dL"/>
+    </low>
+    <high>
+      <value value="109"/>
+      <unit value="mg/dL"/>
+      <system value="http://unitsofmeasure.org"/>
+      <code value="mg/dL"/>
+    </high>
+    <type>
+      <coding>
+        <system value="http://terminology.hl7.org/CodeSystem/referencerange-meaning"/>
+        <code value="normal"/>
+        <display value="Normal Range"/>
+      </coding>
+      <text value="Normal Range"/>
+    </type>
+  </referenceRange>
+</Observation>
