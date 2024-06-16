@@ -1,0 +1,180 @@
+
+<?xml version="1.0"?>
+<!DOCTYPE list SYSTEM "cml.dtd" >
+<!--CML conversion of file glucose.pdb
+Produced by PDB2CML (c) Steve Zara 1999-->
+<list title="molecules" convention="PDB">
+    <list title="model">
+        <list title="compounds">
+            <string title="compound"></string>
+        </list>
+        <list title="remarks">
+            <string title="remark" id="[CH">([C@2H]([C@2H]([OH])[C@2H]([C@2H]([CH2][OH])[OH])[OH])[OH])=O
+</string>
+        </list>
+        <list title="sequence" id="1">
+            <list title="" id="1">
+                <string builtin="residueType"></string>
+                <atom title="atom" id="1">
+                    <string title="name">C</string>
+                    <coordinate3 builtin="xyz3">3.310 -0.776 1.120</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="2">
+                    <string title="name">C</string>
+                    <coordinate3 builtin="xyz3">2.352 -0.111 0.160</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="3">
+                    <string title="name">C</string>
+                    <coordinate3 builtin="xyz3">0.915 -0.407 0.587</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="4">
+                    <string title="name">O</string>
+                    <coordinate3 builtin="xyz3">0.696 0.099 1.906</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="5">
+                    <string title="name">C</string>
+                    <coordinate3 builtin="xyz3">-0.054 0.266 -0.384</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="6">
+                    <string title="name">C</string>
+                    <coordinate3 builtin="xyz3">-1.490 -0.030 0.043</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="7">
+                    <string title="name">C</string>
+                    <coordinate3 builtin="xyz3">-2.459 0.643 -0.928</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="8">
+                    <string title="name">O</string>
+                    <coordinate3 builtin="xyz3">-3.804 0.366 -0.528</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="9">
+                    <string title="name">O</string>
+                    <coordinate3 builtin="xyz3">-1.709 -1.443 0.032</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="10">
+                    <string title="name">O</string>
+                    <coordinate3 builtin="xyz3">0.165 1.679 -0.373</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="11">
+                    <string title="name">O</string>
+                    <coordinate3 builtin="xyz3">2.571 1.302 0.171</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="12">
+                    <string title="name">O</string>
+                    <coordinate3 builtin="xyz3">4.489 -0.665 0.960</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="13">
+                    <string title="name">H</string>
+                    <coordinate3 builtin="xyz3">2.929 -1.352 1.950</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="14">
+                    <string title="name">H</string>
+                    <coordinate3 builtin="xyz3">2.519 -0.496 -0.844</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="15">
+                    <string title="name">H</string>
+                    <coordinate3 builtin="xyz3">0.749 -1.482 0.579</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="16">
+                    <string title="name">H</string>
+                    <coordinate3 builtin="xyz3">3.482 1.499 -0.099</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="17">
+                    <string title="name">H</string>
+                    <coordinate3 builtin="xyz3">0.113 -0.119 -1.388</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="18">
+                    <string title="name">H</string>
+                    <coordinate3 builtin="xyz3">-0.214 -0.085 2.185</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="19">
+                    <string title="name">H</string>
+                    <coordinate3 builtin="xyz3">-1.657 0.355 1.047</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="20">
+                    <string title="name">H</string>
+                    <coordinate3 builtin="xyz3">-0.446 2.115 -0.987</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="21">
+                    <string title="name">H</string>
+                    <coordinate3 builtin="xyz3">-2.293 1.718 -0.920</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="22">
+                    <string title="name">H</string>
+                    <coordinate3 builtin="xyz3">-2.293 0.258 -1.932</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="23">
+                    <string title="name">H</string>
+                    <coordinate3 builtin="xyz3">-2.620 -1.640 0.302</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+                <atom title="atom" id="24">
+                    <string title="name">H</string>
+                    <coordinate3 builtin="xyz3">-4.426 0.790 -1.140</coordinate3>
+                    <string builtin="elementType"></string>
+                    <string builtin="formalCharge"></string>
+                </atom>
+            </list>
+            <feature title="ter" id=""/>
+        </list>
+        <list title="connections">
+            <list title="connect" id="1">2 12 13 0</list>
+            <list title="connect" id="2">1 3 11 14</list>
+            <list title="connect" id="3">2 4 5 15</list>
+            <list title="connect" id="4">3 18 0 0</list>
+            <list title="connect" id="5">3 6 10 17</list>
+            <list title="connect" id="6">5 7 9 19</list>
+            <list title="connect" id="7">6 8 21 22</list>
+            <list title="connect" id="8">7 24 0 0</list>
+            <list title="connect" id="9">6 23 0 0</list>
+            <list title="connect" id="10">5 20 0 0</list>
+            <list title="connect" id="11">2 16 0 0</list>
+            <list title="connect" id="12">1 0 0 0</list>
+        </list>
+    </list>
+</list>
